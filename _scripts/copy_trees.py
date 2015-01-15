@@ -24,8 +24,8 @@ with open("conf.py") as f:
     exec(code, {}, sphinx_conf)
 
 # Local
-verbose = False
-#verbose = True
+#verbose = False
+verbose = True
 
 # Directory with source files
 src_dir = '.'
