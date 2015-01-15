@@ -12,7 +12,11 @@ script:
   - git config --global user.email "TravisBot@nomail"
   - git config --global user.name "TravisBot"
   - git config --global push.default simple
+  - pwd
+  - ls -al
   - make gh-pages 
+  - ls _build/html
+  - ls gh-pages
   - true #change for real tests like linkcheck.
 
 after_success:
