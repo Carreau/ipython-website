@@ -11,6 +11,7 @@ script:
   - git config --global push.default simple
   - pwd
   - ls -al
+  - mkdir _build
   - mkdir _build/html
   - python _scripts/copy_trees.py 
   - ls -al
