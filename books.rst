@@ -11,7 +11,8 @@ Mastering IPython 4.0
     :target: _static/mastering_ipython_40.png
 
 * `Mastering IPython 4.0 <https://www.packtpub.com/big-data-and-business-intelligence/mastering-ipython-40>`_
-* by Thomas Bitterman
+* by `Thomas Bitterman <https://www.packtpub.com/books/info/authors/thomas-bitterman>`_
+* 382 pages
 * Packt Publishing
 * Code Available under MIT Liscence `on GitHub PacktPublishing Organisation <https://github.com/PacktPublishing/Mastering-IPython-4>`_
 * Published May 2016
@@ -62,23 +63,6 @@ IPython Minibook
 * October 25 2015
 
 This book is a beginner-level introduction to Python for data analysis, covering IPython, the Jupyter Notebook, pandas, NumPy, matplotlib, and many other libraries. There is an introduction to the Python programming language for complete beginners. There are also contents for more advanced users, like parallel computing with IPython and high-performance computing with Numba and Cython.
-
-
-Mastering IPython 4.0
----------------------
-
-.. image:: _static/mastering-ipython-book.png
-    :width: 200px
-    :alt: Mastering IPython
-    :target: _static/mastering-ipython-book.png
-
-* `Mastering IPython 4.0 <https://www.packtpub.com/big-data-and-business-intelligence/mastering-ipython-40>`_
-* by `Thomas Bitterman <https://www.packtpub.com/books/info/authors/thomas-bitterman>`_
-* 382 pages
-* Packt Publishing
-* May 2016
-
-This book will get IPython developers up to date with the latest advancements in IPython and dive deep into interactive computing with IPython. This an advanced guide on interactive and parallel computing with IPython will explore advanced visualizations and high-performance computing with IPython in detail.
 
 
 Get your Book on this page
